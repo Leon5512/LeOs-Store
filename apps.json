@@ -1,0 +1,18 @@
+[
+  {
+    "id": "snake",
+    "name": "Snake",
+    "version": "1.2",
+    "description": "Игра Змейка",
+    "icon": "icons/snake.bmp",
+    "file": "apps/snake.app"
+  },
+  {
+    "id": "calculator",
+    "name": "Calculator",
+    "version": "2.0",
+    "description": "Калькулятор",
+    "icon": "icons/calculator.bmp",
+    "file": "apps/calculator.app"
+  }
+]
